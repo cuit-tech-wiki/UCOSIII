@@ -1,0 +1,16 @@
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-III\Source\os_cfg_app.c
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-CONFIG\os_cfg_app.h
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-III\Source\os.h
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-CONFIG\os_cfg.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-CPU\cpu_core.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-CPU\ARM-Cortex-M4\RealView\cpu.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-CPU\cpu_def.h
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-CONFIG\cpu_cfg.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-LIB\lib_def.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-LIB\lib_mem.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-CPU\cpu_core.h
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-CONFIG\lib_cfg.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-LIB\lib_str.h
+ucosiii\os_cfg_app.o: ..\ucos\uC-LIB\lib_ascii.h
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-III\Source\os_type.h
+ucosiii\os_cfg_app.o: ..\ucos\uCOS-III\Ports\ARM-Cortex-M4\Generic\RealView\os_cpu.h
